@@ -39,6 +39,7 @@
     "@shineiichijo/nhentai-pdf": "^1.0.5",
     "anime-wallpaper": "^1.0.2",
     "api-dylux": "^1.5.5",
+    "atob": "^2.1.2",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "caliph-api": "^0.4.0",
